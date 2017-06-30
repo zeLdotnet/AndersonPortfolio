@@ -1,0 +1,30 @@
+﻿#images {
+  white-space:nowrap;
+  box-shadow:100px 20px 100px;
+
+}
+
+h1 {
+  color:maroon;
+  font-family:Comic Sans MS;
+  text-align:center;
+
+}
+
+
+ol {
+  text-align:center;
+}
+
+body {
+  background-color:grey;
+  opacity:0.8;
+}
+
+#submit {
+  background-color:gold;
+}
+
+#fieldset {
+  background-color:blue;
+}
